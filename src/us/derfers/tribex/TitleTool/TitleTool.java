@@ -60,7 +60,7 @@ import org.eclipse.swt.widgets.MenuItem;
 
 public class TitleTool {
 	private static String mode = "Dist";
-	private static String version = "0.3";
+	private static String version = "0.3.1";
 
 	//GUI Globals
 	private static Shell MainShell;
