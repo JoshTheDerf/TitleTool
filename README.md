@@ -19,3 +19,7 @@ The entire XML and Python API is undocumented, and I really need to write it soo
 * Make sure all the code is correctly inserted in the repo
 * Make lots more titles
 * Do good cross-platform te
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Tribex/titletool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
